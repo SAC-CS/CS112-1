@@ -1,4 +1,6 @@
 CS112
 =====
 
-2013 CS112 Tu 7pm
+Into to Java Programming
+Tuesdays @ 7pm
+Fall 2013
