@@ -3,14 +3,14 @@ public class PersonalHello
 {	
   public static void main(String[] args) 
     {
-	     String UserName;
+ 	String UserName;
 
-	     System.out.println("My name is Java. What is your name? ");
+        System.out.println("My name is Java. What is your name? ");
 		
-	     Scanner in = new Scanner(System.in);
-	     UserName = in.next();
+        Scanner in = new Scanner(System.in);
+	UserName = in.next();
 
-       System.out.println("Hello " + UserName + "! Have a good day!");
+        System.out.println("Hello " + UserName + "! Have a good day!");
 
     }
 
